@@ -1,0 +1,6 @@
+temp 1 
+temp 3
+
+*.tmp
+temp/
+
