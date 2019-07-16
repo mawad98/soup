@@ -3,3 +3,4 @@ chicken
 broth
 carrots
 extra salt
+potatoes
