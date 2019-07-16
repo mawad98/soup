@@ -2,4 +2,4 @@ water
 chicken
 broth
 carrots
-
+extra salt
